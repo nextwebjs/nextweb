@@ -20,19 +20,25 @@ The installer downloads the nextweb binary to the foloder you are currently in.
 
 Make a folder where you would like to run Nextweb example:
 
-1) `mkdir newapp` then `cd newapp`
-2) `curl -sL get.nextwebjs.com | bash`
-3) `./nextweb`
+```sh
+mkdir newapp
+cd newapp
+curl -sL get.nextwebjs.com | bash
+./nextweb
+```
 
 ## Demonstration of Wordpress install
 
 To install Wordpress to demonstrate the system try the following.
 
-1) `mkdir wptest` then `cd wptest`
-2) `curl -sL get.nextwebjs.com | bash`
-3) `./nextweb`
-4) `pkg install wordpress`
-5) `deploy myblog to www.myblog.com using wordpress`
+```sh
+mkdir wptest
+cd wptest
+curl -sL get.nextwebjs.com | bash
+./nextweb
+pkg install wordpress
+deploy myblog to www.myblog.com using wordpress
+```
 
 Follow the printed instructions and `apply` then visit the printed URL.
 
