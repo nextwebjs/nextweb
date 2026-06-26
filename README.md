@@ -42,4 +42,8 @@ deploy myblog to www.myblog.com using wordpress
 
 Follow the printed instructions and `apply` then visit the printed URL.
 
+## Documentation and More
+
+To read the documentation and learn more about Nextweb visit https://www.nextwebjs.com
+
 (c) 2026 NULLIVEX LLC. ALL RIGHTS RESERVED.
